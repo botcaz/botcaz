@@ -20,7 +20,7 @@ token = process.env.TOKEN
 // This needs to be the owner's ID (a 17-18 digit number)
 // https://github.com/jagrosh/MusicBot/wiki/Finding-Your-User-ID
 
-owner = 473983503977938945
+owner = 647768863433424936
 
 
 // This sets the prefix for the bot
